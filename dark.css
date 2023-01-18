@@ -9,7 +9,7 @@
 }
 
 /*BLACK BACKGROUND/WHITE TEXT*/
-#page, div.elementor-location-popup, .dialog-widget-content, div.eael-accordion-content.clearfix , .eaelec-modal-content, td.fc-widget-header, .fc-allow-mouse-resize td, #iatabs li.eael-tab-item-trigger:hover, #iatabs li:hover, #iatabs2 li.eael-tab-item-trigger:hover, #donate div a {
+#page, .eael-twitter-feed-item .eael-twitter-feed-item-inner, div.elementor-location-popup, .dialog-widget-content, div.eael-accordion-content.clearfix , .eaelec-modal-content, td.fc-widget-header, .fc-allow-mouse-resize td, #iatabs li.eael-tab-item-trigger:hover, #iatabs li:hover, #iatabs2 li.eael-tab-item-trigger:hover, #donate div a {
 	background-color: #2B2725 !important;
 	color: #FFFCF9 !important
 }
