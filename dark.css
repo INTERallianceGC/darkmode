@@ -1,0 +1,74 @@
+/*DARK VIOLET BACKGROUND */
+#ia-site-header, section.carousel, .thistlecol div, div.iatabs div.elementor-widget-container div div.eael-tabs-nav ul li, div.iatabs .eael-tabs-nav, div.iatabs ul li.active, div.eael-accordion-header, div.buttonrow div, section.buttonrow, section.buttonrow div div.elementor-column.elementor-col-100, nav#secondary_menu-site-navigation .main-navigation.ast-inline-flex ul li, div.ast-primary-header-bar, .site-primary-footer-wrap, .sub-menu, .fc-toolbar.fc-header-toolbar button.fc-button.fc-button-primary.fc-button-active, .chapterScores {
+	background-color: #615498 !important
+}
+
+/*VIOLET BACKGROUND*/
+#slidercol, #submitform, .iabutton div div a, #ia-site-header .elementor-widget-wrap.elementor-element-populated, .eael-event-calendar-wrapper .fc-button, .fc-day-grid-event, .fc-content, .menu-item-has-children::after, .elementor-grid-item::after, .leader {
+	background-color: #6D66AC !important
+}
+
+/*BLACK BACKGROUND/WHITE TEXT*/
+#page, div.elementor-location-popup, .dialog-widget-content, div.eael-accordion-content.clearfix , .eaelec-modal-content, td.fc-widget-header, .fc-allow-mouse-resize td, #iatabs li.eael-tab-item-trigger:hover, #iatabs li:hover, #iatabs2 li.eael-tab-item-trigger:hover, #donate div a {
+	background-color: #2B2725 !important;
+	color: #FFFCF9 !important
+}
+
+/*WHITE TEXT */
+h3, h1, h2, p, h4, a, span, li, div, .fa-accordion-icon, a.elementor-social-icon i, input, textarea  {
+	color: #FFFCF9 !important
+}
+
+/*SUBMENU BORDERS*/
+.ast-header-break-point .main-navigation ul .menu-item .menu-link, .ast-desktop .ast-builder-menu-1 .menu-item .sub-menu .menu-link {
+	border-color: #6D66AC;
+}
+
+/*HEADER BORDER*/
+.ast-desktop .ast-primary-header-bar.main-header-bar, .ast-header-break-point #masthead .ast-primary-header-bar.main-header-bar {
+	border-color: #2B2725 !important;
+}
+
+
+/*HIDE BLACK BACKGROUND ON FA ICONS*/
+.fa-accordion-icon {
+    background-color: transparent !important 
+}
+
+/*SLIDER CONTROL ELEMENTS*/
+#slidercol ul .slick-active .fa.fa-circle::before {
+    color: #7AF6C5 !important;
+}
+#slidercol ul li:not(.slick-active) .fa.fa-circle::before {
+    color: #615498 !important;
+}
+
+/*HEADER IMG*/
+.wp-image-457, #masthead .site-logo-img .custom-logo-link .custom-logo {
+	content: url(https://www.interalliance.org/wp-content/uploads/headerDark01.png) !important;
+}
+
+/*HOMEWORK BIRD*/
+.homeworkbird {
+	content: url(https://www.interalliance.org/wp-content/uploads/homeworkBirdDark.png)
+}
+
+/*TROPHY BIRD*/
+.trophybird {
+	content: url(https://www.interalliance.org/wp-content/uploads/trophyBirdDarkCrop.png)
+}
+
+/*WAVE BIRD*/
+.wavebird {
+	content: url(https://www.interalliance.org/wp-content/uploads/waveBirdDark2.png)
+}
+
+/*WORKING BIRD*/
+.workingbird {
+	content: url(https://www.interalliance.org/wp-content/uploads/workingBirdDark.png)
+}
+
+/*CALENDAR BIRD*/
+.calendarbird {
+	content: url(https://www.interalliance.org/wp-content/uploads/calendarBirdDark.png)
+}
