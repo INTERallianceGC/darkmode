@@ -72,3 +72,11 @@ h3, h1, h2, p, h4, a, span, li, div, .fa-accordion-icon, a.elementor-social-icon
 .calendarbird {
 	content: url(https://www.interalliance.org/wp-content/uploads/calendarBirdDark.png)
 }
+/*OUR MISSION*/
+#mission-img {
+	content: url("https://www.interalliance.org/wp-content/uploads/Copy-of-600_5100-scaled.jpg")
+}
+/*OUR VISION*/
+#vision-img {
+	content: url("https://www.interalliance.org/wp-content/uploads/Copy-of-600_4832-scaled.jpg")
+}
