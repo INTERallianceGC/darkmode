@@ -8,6 +8,11 @@
 	background-color: #6D66AC !important
 }
 
+/*OUR MISSION/VISION - TRANSPARENT VIOLET*/
+.elementor-7 .elementor-element.elementor-element-6a0bd85 {
+	background: rgba(109, 102, 172, 0.75) !important;
+}
+
 /*BLACK BACKGROUND/WHITE TEXT*/
 #page, .eael-twitter-feed-item .eael-twitter-feed-item-inner, div.elementor-location-popup, .dialog-widget-content, div.eael-accordion-content.clearfix , .eaelec-modal-content, td.fc-widget-header, .fc-allow-mouse-resize td, #iatabs li.eael-tab-item-trigger:hover, #iatabs li:hover, #iatabs2 li.eael-tab-item-trigger:hover, #donate div a {
 	background-color: #2B2725 !important;
@@ -21,7 +26,7 @@ h3, h1, h2, p, h4, a, span, li, div, .fa-accordion-icon, a.elementor-social-icon
 
 /*WHITE ICONS*/
 .mobile-menu-toggle-icon .ast-mobile-svg {
-	fill: white
+	fill: white !important;
 }
 
 /*SUBMENU BORDERS*/
